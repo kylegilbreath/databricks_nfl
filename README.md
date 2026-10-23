@@ -1,6 +1,6 @@
 # databricks_nfl
 
-Reusable Databricks assets for NFL and fantasy football analytics. These include Genie Code skills that set conventions for how pipeline runs, job results, and analysis outputs get reported.
+A collection of Databricks assets and Genie Code skills for NFL and fantasy football analytics, covering pipeline conventions, job reporting, and analysis output standards.
 
 Remote: [github.com/kylegilbreath/databricks_nfl](https://github.com/kylegilbreath/databricks_nfl)
 
